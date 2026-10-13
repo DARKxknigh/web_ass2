@@ -1,3 +1,3 @@
 # assignment2
 TuteDude Web Development coursework
-https://gunishgoyal21-collab.github.io/assignment2/
+https://github.com/DARKxknigh/web_ass2
